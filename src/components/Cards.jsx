@@ -24,6 +24,7 @@ const Cards = () => {
             });
         });
 
+        // call cleanup function
         return () => {
             flkty.destroy();
         };

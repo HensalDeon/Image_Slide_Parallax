@@ -1,5 +1,6 @@
 # Dashboard
 
+<img width="960" alt="Screenshot 2023-11-25 004322" src="https://github.com/HensalDeon/Image_Slide_Parallax/assets/120702682/f6142d82-1c0f-4f4a-8eaa-6090a7bed5fb">
 
 
 ## Description

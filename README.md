@@ -23,6 +23,7 @@ This is simple image slide parallax where users can scroll through images with a
 
 ### Usage
 
+1. `npm run dev`
 Do the steps as mentioned in above everything should work fine. Please let me know if it's not working
 
 ## Contributing
